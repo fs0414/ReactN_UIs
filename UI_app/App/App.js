@@ -47,6 +47,6 @@ const styles = StyleSheet.create({
 });
 
 export default App;
-test_MR;
+test_MC;
 debf;
 bgfdgb;
